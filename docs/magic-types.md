@@ -8,4 +8,6 @@
 - Spell slots - dnd
 - Linguistic - Ars magicka, eragon
 - Point buy 
-- Freeform
+- randomly generated, maze rats, wild magic
+- Freeform, d6
+- item-based, pf2 alchemist
